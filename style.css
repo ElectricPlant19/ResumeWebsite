@@ -1,0 +1,26 @@
+.containerHead  {
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: beige;
+}
+
+.containerBody {
+    border: 5px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: bisque;
+
+}
+
+.containerfoot {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(206, 206, 186);
+    color: #fff;
+    border: 5px solid black;
+}
